@@ -1,5 +1,5 @@
 {
-    "name": "SSD1306_OLED",
+    "name": "SSD1306_OLED_3C",
     "version": "1.2.6",
     "description": "Tinkercademy package for SSD1306 OLED controller",
     "license": "MIT",
